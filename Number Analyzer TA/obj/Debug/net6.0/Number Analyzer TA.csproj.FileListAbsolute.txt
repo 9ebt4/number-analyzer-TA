@@ -1,0 +1,15 @@
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Number Analyzer TA\Number Analyzer TA\bin\Debug\net6.0\Number Analyzer TA.exe
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Number Analyzer TA\Number Analyzer TA\bin\Debug\net6.0\Number Analyzer TA.deps.json
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Number Analyzer TA\Number Analyzer TA\bin\Debug\net6.0\Number Analyzer TA.runtimeconfig.json
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Number Analyzer TA\Number Analyzer TA\bin\Debug\net6.0\Number Analyzer TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Number Analyzer TA\Number Analyzer TA\bin\Debug\net6.0\Number Analyzer TA.pdb
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Number Analyzer TA\Number Analyzer TA\obj\Debug\net6.0\Number Analyzer TA.csproj.AssemblyReference.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Number Analyzer TA\Number Analyzer TA\obj\Debug\net6.0\Number Analyzer TA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Number Analyzer TA\Number Analyzer TA\obj\Debug\net6.0\Number Analyzer TA.AssemblyInfoInputs.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Number Analyzer TA\Number Analyzer TA\obj\Debug\net6.0\Number Analyzer TA.AssemblyInfo.cs
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Number Analyzer TA\Number Analyzer TA\obj\Debug\net6.0\Number Analyzer TA.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Number Analyzer TA\Number Analyzer TA\obj\Debug\net6.0\Number Analyzer TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Number Analyzer TA\Number Analyzer TA\obj\Debug\net6.0\refint\Number Analyzer TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Number Analyzer TA\Number Analyzer TA\obj\Debug\net6.0\Number Analyzer TA.pdb
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Number Analyzer TA\Number Analyzer TA\obj\Debug\net6.0\Number Analyzer TA.genruntimeconfig.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Number Analyzer TA\Number Analyzer TA\obj\Debug\net6.0\ref\Number Analyzer TA.dll
